@@ -10,3 +10,6 @@ Classify Emotions using EEG signals in MATLAB
 ## Saved Model 
 [Saved Model](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-MATLAB/tree/main/Saved%20Model)
 
+## Results
+- **Accuracy:** 99.45%. \
+![Confusion Matrix](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-MATLAB/blob/main/Confusion_matrix.png)
