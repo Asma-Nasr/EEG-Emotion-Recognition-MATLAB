@@ -13,3 +13,6 @@ Classify Emotions(Happy, Sad, Fear, Calm) by KNN using EEG signals in MATLAB
 ## Results
 - **Accuracy:** 99.45%. \
 ![Confusion Matrix](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-MATLAB/blob/main/Confusion_matrix.png)
+
+## Report
+- [Report](https://github.com/Asma-Nasr/EEG-Emotion-Recognition-MATLAB/tree/main/Report)
